@@ -25,6 +25,10 @@
 
 <p><img src="https://github.com/gabrielbuenoo/Monitoramento-UmidadeTemperatura-SensorDHT/blob/master/circuito.jpg" alt="" width="500" height="400" /></p>
 
+# Funcionamento
+
+  As primeiras linhas do programa são utilizadas para identificar informações sobre o sensor e adaptar o programa para sua utilização. As linhas seguintes se referem a montagem do símbolo grau utilizado na leitura do LCD. As últimas linhas têm a função de "imprimir" a informação no leitor, a qual foi lida por meio da função float.
+
 # Detalhes para montagem
 
   Durante o processo de montagem do circuito eletrônico, será necessária a soldagem da barra de pinos 180 graus nas 16 ilhas perfuradas do display LCD 16×2. O display LCD deverá ser soldado sobre a parte plástica da barra de pinos de forma que os terminais estejam fixos e sem contato com as ilhas vizinhas.
